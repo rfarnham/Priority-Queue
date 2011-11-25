@@ -1,0 +1,5 @@
+Priority-Queue
+
+A priority queue suite in C which allows for priorities to be updated on the fly.
+This functionality allows for more efficient search algorithms.
+make.sh and test.c are provided for testing. Specifically, test.c leverages the priority queue for sorting.
